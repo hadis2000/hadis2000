@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Hadiseh 👋
 
-<!--
-**hadis2000/hadis2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer building scalable and maintainable React applications.  
+I focus on clean architecture, predictable state management, and real-world usability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- React, Next.js
+- TypeScript, JavaScript
+- Tailwind CSS, MUI, Ant Design
+- Zustand, Redux Toolkit
+- React Query
+- Cypress, Storybook
+
+---
+
+### 🧠 What I value as a developer
+- Readable and predictable code
+- Refactoring over rewriting
+- Components that are easy to maintain (and easy to delete)
+- UX before fancy UI
+
+---
+
+### 📊 GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadis2000&layout=compact)
+
+---
+
+### 📫 Reach me
+- LinkedIn: [linkedin.com/in/hadiseh-hosseini](https://www.linkedin.com/in/hadiseh-hosseini)
+- Email: ‫hadisehoseini6301@gmail.com
