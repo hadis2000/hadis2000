@@ -29,11 +29,7 @@ I care more about architecture, state, and UX than visual tricks.
 
 ---
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadis2000&layout=donut&theme=radical" />
-</p>
 
----
 
 <p align="center">
   <a href="mailto:hadisehoseini6301@gmail.com">
